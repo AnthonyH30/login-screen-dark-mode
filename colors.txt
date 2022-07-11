@@ -1,0 +1,15 @@
+Light Mode:
+--background-color: #fff;
+--title-btn-color: #170C22;
+--input-color: #fff;
+--text-color: #000000;
+--btn-color: #fff;
+--box-color: #dddddd;
+
+Dark Mode:
+--background-color: #170C22;
+--title-btn-color: #00F879;
+--input-color: #58446C;
+--text-color: #fff;
+--btn-color: #170C22;
+--box-color: #58446C
